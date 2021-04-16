@@ -20,7 +20,7 @@ Also game is going to be faster and faster if you do not fall down.
 
 There is also a shop to buy new outfits for Mia to wear using collected coins.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 What i have done in the developing part of the game.
 
@@ -31,6 +31,7 @@ What i have done in the developing part of the game.
 -Main Menu.
 
 Lastly you can see the presentation.pdf if you want to see our presentation.
+(footnote: our group name was "Tears in my eyes" *swh)
 
 
  
