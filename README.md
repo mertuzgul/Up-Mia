@@ -31,7 +31,7 @@ What i have done in the developing part of the game.
 -Main Menu.
 
 Lastly you can see the presentation.pdf if you want to see our presentation.
-(footnote: our group name was "Tears in my eyes" *swh)
+
 
 
  
