@@ -30,7 +30,7 @@ What i have done in the developing part of the game.
 -Camera movement.
 -Main Menu.
 
-Lastly you can see the presentation.pdf if you want to see our presentation.
+Lastly you can see the presentation.pdf if you want to see our presentation and i shared a mp4 file for gameplay.
 
 
 
